@@ -16,9 +16,9 @@
 # Documentação
 
 <ol>
-<li><a href="docs/11-Arquivos do Projeto.md"> Registro de Testes de Usabilidade</a></li>
+<li><a href="docs/1-Documentação de Contexto.md"> Arquivos</a></li>
 <li><a href="docs/12-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
-<li><a href="docs/13-Jogo completo.md"> Referências</a></li>
+<li><a href="docs/2-Especificação do Projeto .md"> Referências</a></li>
 </ol>
 
 
